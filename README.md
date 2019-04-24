@@ -26,8 +26,8 @@ By the end of this course, you’ll be able to apply the skills and confidence y
 
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
-* **Processor**: 2.6 GHz or higher, preferably multi-core
-* **Memory**: 4GB RAM
+* **Processor**: 2.6 GHz or higher multi-core processor
+* **Memory**: 8GB RAM
 * **Hard disk**: 35GB or more
 
 
@@ -37,5 +37,5 @@ You’ll also need the following software installed in advance:
 * OS: Windows 7 SP1 64-bit, Windows 8.1 64-bit or Windows 10 64-bit, Ubuntu Linux, or the latest version of OS X
 * Browser: Google Chrome/Mozilla Firefox Latest Version
 * Notepad++/Sublime Text as IDE (Optional, as you can practice everything using Jupyter notecourse on your browser)
-* Python 3.4+ (latest is Python 3.7) installed (from https://python.org)
+* Python 3.4+ (latest is preferable) installed (from https://python.org)
 * Python libraries as needed (Jupyter, Numpy, Pandas, Matplotlib, BeautifulSoup4, and so)
